@@ -1,32 +1,29 @@
 /* ============================================================
    Sauve Applied QuantGen Lab — styles.css
-   Palette: Ontario Tech-inspired — Future Blue · Simcoe Blue ·
-   forest green · sand · Tech Tangerine
+   Palette: deep slate · forest green · steel blue · sand · amber
    ============================================================ */
 
 @import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,600;0,700;1,400&family=IBM+Plex+Sans:wght@300;400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap');
 
 /* ── CSS Variables ─────────────────────────────────────────── */
 :root {
-  /* Ontario Tech-aligned blues (Future Blue / Simcoe Blue family) */
-  --slate:         #003C71;   /* Future Blue */
-  --slate-mid:     #1A4E83;
-  --slate-light:   #2D6593;
+  --slate:         #1E2D3D;
+  --slate-mid:     #2C3E50;
+  --slate-light:   #3D5166;
   --forest:        #2D6A4F;
   --forest-light:  #3B8A65;
   --forest-pale:   #E8F4EE;
-  --steel:         #0077CA;   /* Simcoe Blue */
-  --steel-light:   #3E97DD;
-  --steel-pale:    #E6F2FB;
+  --steel:         #4A7FA5;
+  --steel-light:   #6A9FBF;
+  --steel-pale:    #EAF2F8;
   --sand:          #E8DCC8;
   --sand-dark:     #C9B99A;
   --sand-deeper:   #A89070;
-  /* Ontario Tech Tangerine accent */
-  --amber:         #E75D2A;   /* Tech Tangerine */
-  --amber-light:   #F4825A;
+  --amber:         #C4862B;
+  --amber-light:   #D9A04A;
   --off-white:     #F5F2ED;
   --body-text:     #2A3340;
-  --muted:         #5B6770;   /* Ontario Tech dark grey */
+  --muted:         #6B7A8D;
   --rule:          #D5CCB8;
 
   --body-font:     'IBM Plex Sans', sans-serif;
@@ -35,8 +32,8 @@
 
   --radius:        3px;
   --radius-lg:     6px;
-  --shadow-sm:     0 1px 4px rgba(0,60,113,0.10);
-  --shadow-md:     0 4px 18px rgba(0,60,113,0.14);
+  --shadow-sm:     0 1px 4px rgba(30,45,61,0.10);
+  --shadow-md:     0 4px 18px rgba(30,45,61,0.14);
   --transition:    0.2s ease;
 }
 
@@ -135,7 +132,7 @@ code, kbd {
   position: absolute;
   inset: 0;
   background:
-    radial-gradient(ellipse 70% 80% at 90% 50%, rgba(0,119,202,0.30) 0%, transparent 70%),
+    radial-gradient(ellipse 70% 80% at 90% 50%, rgba(74,127,165,0.30) 0%, transparent 70%),
     radial-gradient(ellipse 40% 60% at 10% 80%, rgba(45,106,79,0.20) 0%, transparent 60%);
   pointer-events: none;
 }
@@ -185,9 +182,9 @@ code, kbd {
   font-weight: 500;
 }
 
-.hero-tag.ecology   { background: rgba(45,106,79,0.55);  color: #a8dfc2; border: 1px solid rgba(45,106,79,0.7); }
-.hero-tag.inference { background: rgba(0,119,202,0.45);  color: #b5dafa; border: 1px solid rgba(0,119,202,0.6); }
-.hero-tag.forensics { background: rgba(231,93,42,0.35);  color: #facfb6; border: 1px solid rgba(231,93,42,0.55); }
+.hero-tag.ecology   { background: rgba(45,106,79,0.55);   color: #a8dfc2; border: 1px solid rgba(45,106,79,0.7); }
+.hero-tag.inference { background: rgba(74,127,165,0.45);  color: #c5dfee; border: 1px solid rgba(74,127,165,0.6); }
+.hero-tag.forensics { background: rgba(196,134,43,0.40);  color: #ecd49a; border: 1px solid rgba(196,134,43,0.6); }
 
 /* ── Inline image ──────────────────────────────────────────── */
 .centered-image {
@@ -459,7 +456,7 @@ code, kbd {
   content: '';
   position: absolute;
   top: 0; right: 0; bottom: 0; width: 35%;
-  background: radial-gradient(ellipse at right center, rgba(0,119,202,0.25), transparent 70%);
+  background: radial-gradient(ellipse at right center, rgba(74,127,165,0.25), transparent 70%);
   pointer-events: none;
 }
 

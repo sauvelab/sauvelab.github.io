@@ -15,8 +15,12 @@ website:
         href: research.qmd
       - text: Publications
         href: publications.qmd
+      - text: Teaching
+        href: teaching.qmd
       - text: News
         href: news.qmd
+      - text: Blog
+        href: blog.qmd
       - text: "Join Us"
         href: join.qmd
     right:

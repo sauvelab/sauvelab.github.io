@@ -1,0 +1,11 @@
+---
+title: "Blog"
+---
+
+::: {.section-label}
+Blog
+:::
+
+# Blog
+
+*Posts coming soon.*

@@ -1,0 +1,11 @@
+---
+title: "Teaching"
+---
+
+::: {.section-label}
+Teaching
+:::
+
+# Teaching
+
+*Course materials, syllabi, and student resources will be posted here.*
