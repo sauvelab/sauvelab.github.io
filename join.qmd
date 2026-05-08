@@ -6,7 +6,7 @@ title: "Join Us"
 Opportunities
 :::
 
-We are always looking for motivated, collaborative, and curious people to join the Lab. We strive to be an kind, inclusive, and supportive environment for researchers at all stages. 
+I am always looking for motivated, collaborative, and curious people to join the Lab. I strive to create a kind, inclusive, and supportive environment for researchers at all stages. 
 
 ---
 
@@ -37,8 +37,8 @@ please get in touch with a CV and a brief description of your interests.
 
 ## Undergraduate Students
 
-We welcome motivated undergraduates interested in gaining research experience in
-quantitative genetics and evolutionary biology.
+I welcome motivated undergraduates interested in gaining research experience in
+quantitative genetics, forensic, and evolutionary biology.
 ---
 
 ## Contact
@@ -49,7 +49,7 @@ quantitative genetics and evolutionary biology.
 To inquire about opportunities, email me with the subject line
 **"Prospective [PhD/MSc/PDF/Undergrad] — [Your Name]"**.
 
-I aim to respond to all serious enquiries within two weeks.
+I aim to respond to all serious inquiries within two weeks.
 
 [Email the lab](Drew.Sauve@ontariotechu.ca){.btn-amber}
 :::
