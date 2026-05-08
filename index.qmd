@@ -10,7 +10,7 @@ page-layout: full
 [Forensics]{.hero-tag .forensics}
 :::
 
-# Sauve Lab
+# Applied Quantitative Genetics Lab
 
 ::: {.subtitle}
 

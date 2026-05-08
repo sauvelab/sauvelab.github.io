@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Sauve Applied QuantGen Lab"
+  title: "Sauve Lab"
   description: "Applied Quantitative Genetics | Ontario Tech University"
   navbar:
     left:
@@ -28,7 +28,7 @@ website:
         href: https://github.com/
         aria-label: GitHub
   page-footer:
-    left: "© 2026 Sauve Applied QuantGen Lab · Ontario Tech University"
+    left: "© 2026 Sauve Applied Quantitative Genetics Lab · Ontario Tech University"
     right: "Oshawa, Ontario, Canada"
 
 format:
