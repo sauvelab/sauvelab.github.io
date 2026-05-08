@@ -93,16 +93,6 @@ PhD in progress · expected 2029
 Undergraduate Students
 :::
 
-::: {.team-grid}
-
-::: {.team-card}
-![](images/team/student2.jpg)
-
-::: {.member-links}
-[Email](#)
-:::
-:::
-:::
 
 ---
 
