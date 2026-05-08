@@ -38,12 +38,7 @@ please get in touch with a CV and a brief description of your interests.
 ## Undergraduate Students
 
 We welcome motivated undergraduates interested in gaining research experience in
-quantitative genetics and evolutionary biology. Opportunities include:
-
-- **Volunteer research positions** (academic year or summer)
-- **Independent study / thesis projects** (for credit)
-- **NSERC USRA** – we encourage strong students to apply each spring
-
+quantitative genetics and evolutionary biology.
 ---
 
 ## Contact
@@ -51,11 +46,10 @@ quantitative genetics and evolutionary biology. Opportunities include:
 ::: {.join-callout}
 ### Get in touch
 
-To inquire about opportunities, email us at
-[lab@ontariotechu.ca](mailto:lab@ontariotechu.ca) with the subject line
+To inquire about opportunities, email me with the subject line
 **"Prospective [PhD/MSc/PDF/Undergrad] — [Your Name]"**.
 
-We aim to respond to all serious enquiries within two weeks.
+I aim to respond to all serious enquiries within two weeks.
 
 [Email the lab](Drew.Sauve@ontariotechu.ca){.btn-amber}
 :::
