@@ -1,0 +1,38 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Sauve Applied QuantGen Lab"
+  description: "Applied Quantitative Genetics | Ontario Tech University"
+  navbar:
+    left:
+      - text: Home
+        href: index.qmd
+      - text: Team
+        href: team.qmd
+      - text: Research
+        href: research.qmd
+      - text: Publications
+        href: publications.qmd
+      - text: News
+        href: news.qmd
+      - text: "Join Us"
+        href: join.qmd
+    right:
+      - icon: github
+        href: https://github.com/
+        aria-label: GitHub
+  page-footer:
+    left: "© 2026 Sauve Applied QuantGen Lab · Ontario Tech University"
+    right: "Oshawa, Ontario, Canada"
+
+format:
+  html:
+    theme: litera
+    css: styles.css
+    toc: true
+    toc-depth: 2
+    smooth-scroll: true
+    link-external-icon: true
+    link-external-newwindow: true

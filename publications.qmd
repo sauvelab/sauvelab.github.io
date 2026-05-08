@@ -1,0 +1,146 @@
+---
+title: "Publications"
+---
+
+::: {.section-label}
+Full list
+:::
+
+A complete and up-to-date list is available on
+[Google Scholar](https://scholar.google.ca/citations?user=W49QJVcAAAAJ&hl=en){target="_blank"}.
+An asterisk ([*]{.mentee-legend}) indicates a student or staff mentee.
+
+---
+
+## In prep
+
+::: {.pub-list}
+
+[21.]{.pub-num} [[Thompson]{.mentee}, H., Chabot, A.A., Morgan, A., **Sauve, D.** Genomic assessment of an *ex situ* population of the critically endangered Blue-throated macaw (*Ara glaucogularis*).]{.pub-title}
+
+[20.]{.pub-num} [**Sauve, D.**, Pelletier, F., Réale, D. A comparison of natural selection acting on life-history traits in captive-managed and wild big horn sheep.]{.pub-title}
+
+[19.]{.pub-num} [[Elliott]{.mentee}, G.C., **Sauve, D.**, [Thompson]{.mentee}, H., Hathaway, J., Moxley, K., Pearce, J., Sheridan, C., Lougheed, S.C., Chabot, A.A. Phenology of spermatozoa quality in gray ratsnake (*Pantherophis spiloides*).]{.pub-title}
+
+:::
+
+---
+
+## In review
+
+::: {.pub-list}
+
+[18.]{.pub-num} [Luzuriaga-Aveiga, V., Hess, H., Chabot, A.A., Mastromonaco, G., Wheeler, H., **Sauve, D.** Phenological change in managed but not wild populations despite similar selection.]{.pub-title}
+
+[17.]{.pub-num} [[Green]{.mentee}, A., **Sauve, D.**, Boccia, C., Friesen, V.L. Focusing on the relevant probabilities in population assignment to identify and correct bias.]{.pub-title}
+
+:::
+
+---
+
+## 2026
+
+::: {.pub-list}
+
+[16.]{.pub-num} [[Thompson]{.mentee}, H., Meads, L., Mackintosh, M., Reynolds, T., **Sauve, D.** No evidence of skewed or extra variable sex ratio in a Western burrowing owl (*Athene cunicularia hypugaea*) conservation breeding program. *Canadian Journal of Zoology*, in press.]{.pub-title}
+
+[15.]{.pub-num} [[Elliott]{.mentee}, G.C., **Sauve, D.**, [Thompson]{.mentee}, H., Hathaway, C.J., Moxley, K., Pearce, J., Stanger-Guy, S.J., Sheridan, C., Chabot, A.A. Short-term cold storage of gray ratsnake (*Pantherophis spiloides*) sperm. *Zoo Biology*, in press.]{.pub-title}
+
+[14.]{.pub-num} [[Elliott]{.mentee}, G.C., Smale, P., **Sauve, D.** A pull methodology for reproductive system dissection and successful retrieval of sperm from *Bombus* species. *Journal of Applied Entomology*, in press.]{.pub-title}
+
+:::
+
+---
+
+## 2025
+
+::: {.pub-list}
+
+[13.]{.pub-num} [**Sauve, D.**, Chabot, A.A., Réale, D. (2025). Genetic adaptation in zoos and conservation breeding programs. *Biological Conservation*, in press.]{.pub-title}  
+  [DOI: [10.1016/j.biocon.2025.111429](https://doi.org/10.1016/j.biocon.2025.111429){target="_blank"}]{.pub-doi}
+
+[12.]{.pub-num} [**Sauve, D.**, [Thompson]{.mentee}, H., Chabot, A.A., Réale, D. (2025). Using fitness surfaces to better link conservation breeding programmes with wild population recovery. *Molecular Ecology*, 34, e17798.]{.pub-title}  
+  [DOI: [10.1111/mec.17798](https://doi.org/10.1111/mec.17798){target="_blank"}]{.pub-doi}
+
+[11.]{.pub-num} [**Sauve, D.**, [Charland]{.mentee}, D., Solecki, A., Hudecki, J., Wheeler, H., [Thompson]{.mentee}, H., Steiner, J., Friesen, V.L., Chabot, A.A. (2025). Disentangling the contributions to phenotypic evolution in conservation breeding: a case study of morphological change in a breeding program of an endangered migratory songbird. *Animal Conservation*, in press.]{.pub-title}  
+  [DOI: [10.1111/acv.70004](https://doi.org/10.1111/acv.70004){target="_blank"}]{.pub-doi}
+
+:::
+
+---
+
+## 2024
+
+::: {.pub-list}
+
+[10.]{.pub-num} [**Sauve, D.**, Charmantier, A., Hatch, S.A., Friesen, V.L. (2024). The magnitude of selection on growth varies among years and increases under warming conditions in a subarctic seabird. *Evolution Letters*, 8(1), 56–63.]{.pub-title}  
+  [DOI: [10.1093/evlett/qrad001](https://doi.org/10.1093/evlett/qrad001){target="_blank"}]{.pub-doi}
+
+:::
+
+---
+
+## 2023
+
+::: {.pub-list}
+
+[9.]{.pub-num} [**Sauve, D.**, Friesen, V.L., Hatch, S.A., Elliott, K.H., Charmantier, A. (2023). Shifting environmental predictors of phenotypes under climate change: a case study of growth in high latitude seabirds. *Journal of Avian Biology*, e03062.]{.pub-title}  
+  [DOI: [10.1111/jav.03062](https://doi.org/10.1111/jav.03062){target="_blank"}]{.pub-doi}
+
+:::
+
+---
+
+## 2022
+
+::: {.pub-list}
+
+[8.]{.pub-num} [Kerr, K.C., **Sauve, D.**, Winton, S., Thorne, T.J., Chabot, A.A. (2022). Examining the representation of locally threatened species in North American zoos. *Animal Conservation*.]{.pub-title}
+
+[7.]{.pub-num} [**Sauve, D.**, Hudecki, J., Steiner, J., Lynch, C., Chabot, A.A. (2022). Improving species conservation plans under IUCN's One Plan Approach using quantitative genetic methods. *EcoEvoRxiv*. Peer-reviewed and recommended by Peer Community in Zoology.]{.pub-title}  
+  [DOI: [10.32942/osf.io/n3zxp](https://doi.org/10.32942/osf.io/n3zxp){target="_blank"}]{.pub-doi}
+
+[6.]{.pub-num} [**Sauve, D.**, Charmantier, A., Hatch, S.A., Friesen, V.L. (2022). Effects of the environment on growth vary across the breeding season in a subarctic seabird. *Oecologia*, 198, 307–318.]{.pub-title}  
+  [DOI: [10.1007/s00442-021-05063-x](https://doi.org/10.1007/s00442-021-05063-x){target="_blank"}]{.pub-doi}
+
+:::
+
+---
+
+## 2021
+
+::: {.pub-list}
+
+[5.]{.pub-num} [Friesen, V.L., Brunt, R., Morris-Pocock, J.A., **Sauve, D.**, Baker, A.J., Birt, T.P., Davidson, W.S., Elliott, K.H., Montevecchi, W.A. (2021). A test of mechanisms of population differentiation in gannets (genus *Morus*) using comparative phylogeography and morphometrics. *Marine Ornithology*, 49, 275–291.]{.pub-title}
+
+[4.]{.pub-num} [**Sauve, D.**, Friesen, V.L., Charmantier, A. (2021). The effects of weather on avian growth and implications for adaptation to climate change. *Frontiers in Ecology and Evolution*, 9, 569741.]{.pub-title}  
+  [DOI: [10.3389/fevo.2021.569741](https://doi.org/10.3389/fevo.2021.569741){target="_blank"}]{.pub-doi}
+
+:::
+
+---
+
+## 2020
+
+::: {.pub-list}
+
+[3.]{.pub-num} [**Sauve, D.**, Dale, C., Tigano, A., Ratcliffe, L., Friesen, V.L. (2020). Do candidate genes for migration and behaviour explain migratory variation in bluebirds (*Sialia* spp.)? *The Wilson Journal of Ornithology*, 132, 820–829.]{.pub-title}  
+  [DOI: [10.1676/19-00120](https://doi.org/10.1676/19-00120){target="_blank"}]{.pub-doi}
+
+:::
+
+---
+
+## 2019
+
+::: {.pub-list}
+
+[2.]{.pub-num} [**Sauve, D.**, Divoky, G., Friesen, V.L. (2019). Phenotypic plasticity or evolutionary change? An examination of the phenological response of an Arctic seabird to climate change. *Functional Ecology*, 33, 2180–2190. [Cover article — featured in *National Geographic* and *Functional Ecology* spotlight.]]{.pub-title}  
+  [DOI: [10.1111/1365-2435.13406](https://doi.org/10.1111/1365-2435.13406){target="_blank"}]{.pub-doi}
+
+[1.]{.pub-num} [**Sauve, D.**, Patirana, A., Chardine, J.W., Friesen, V.L. (2019). Mitochondrial DNA reveals genetic structure within the Atlantic but not Pacific populations of a holarctic seabird, the Black-legged Kittiwake *Rissa tridactyla*. *Marine Ornithology*, 47, 199–208.]{.pub-title}  
+  [DOI: [10.5038/2074-1235.47.2.1318](https://doi.org/10.5038/2074-1235.47.2.1318){target="_blank"}]{.pub-doi}
+
+:::
+
+---

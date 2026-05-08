@@ -1,0 +1,23 @@
+---
+title: "News"
+---
+
+Stay up to date with lab publications, new members, conference presentations, and other happenings.
+
+---
+
+::: {.news-list}
+
+::: {.news-item}
+::: {.news-date}
+[1]{.day} July  
+2026
+:::
+::: {.news-body}
+#### The official start to the lab
+
+We are excited and thrilled to be starting the Applied Quantitative Genetics Lab at Ontario Tech University in Oshawa! Looking forward to building the team and doing some great science!
+:::
+:::
+
+

@@ -1,0 +1,60 @@
+---
+title: "Research"
+---
+
+::: {.section-label}
+Overview
+:::
+
+We mainly work to understand how genetic and environmental variation combine to produce the phenotypes we see in nature. We use that understanding to predict how populations evolve, persist, or decline. We apply quantitative genetics, population genetics, and pedigree/studbook/genealogical analysis to questions across evolutionary ecology, conservation, and forensic science.
+
+---
+
+## Evolutionary ecology
+
+We are interested in understanding the genetic and environmental contributors to phenotypic variation so that we can make predictions about phenotypic and demographic change. 
+
+**Key questions:**
+
+- How do genotypes express phenotypes across different environmental/genetic contexts? What does this mean for conservation, responses to climate change or phenotypic prediction?
+- Can we predict adaptation and demographic change?
+- How reliably can we estimate quantitative genetic parameters from genomic data?
+
+---
+
+## Wildlife conservation
+
+We have a strong interest in making connections from basic evolutionary ecology to applied conservation biology. We work with species-at-risk to translate data and theory into conservation guidance.
+
+**Key questions:**
+
+- How can we use molecular genetics to identify individuals across populations?
+- When might evolution or plasticity allow populations to adapt to changing environmental conditions?
+- How do we apply theoretical tools from population and quantitative genetics to conservation problems?
+
+
+---
+
+## Forensic genetics
+
+We are interested in the application of population genetic, genealogical, and quantitative genetic methods to forensic settings.
+
+**Key questions**
+
+- How do we best measure and convey the uncertainty associated with the probability or likelihood that a tissue sample belongs to a particular individual, population, or species?
+- How do genotype-by-environment interactions impact our ability to make predictions about phenotypes in a forensic setting?
+- How does forensic genetic genealogy perform for different genetic backgrounds and genetic marker qualities?
+- Can forensic genetic genealogical style approaches be used when working with zoo studbooks?
+
+
+---
+
+
+
+::: {.join-callout}
+### Collaborate with us
+
+We welcome collaborations with researchers, government agencies, and conservation
+organizations. If you have data and questions that align with our expertise,
+[get in touch](mailto:lab@ontariotechu.ca){.btn-amber}
+:::
