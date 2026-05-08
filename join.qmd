@@ -6,44 +6,62 @@ title: "Join Us"
 Opportunities
 :::
 
-The lab welcomes curious, collaborative people at all career stages.
+We are always looking for motivated, collaborative, and curious people to join the Lab. We strive to be an kind, inclusive, and supportive environment for researchers at all stages. 
 
 ---
 
 ## PhD & MSc Students
 
-Backgrounds in biology, statistics, or bioinformatics are all welcome.
-Programs at Ontario Tech:
-[MSc](https://gradstudies.ontariotechu.ca/){target="_blank"} ·
-[PhD](https://gradstudies.ontariotechu.ca/){target="_blank"}
+Please email me so we can discuss your interests. I am always excited to explore funding opportunities for students interested in quantitative genetics, evolutionary ecology, conservation, and forensic genetics. 
+
+**What to include in your email:**
+
+- A brief description of your research interests and why you want to join this lab
+- Your CV, including academic background and any research experience
+
+
+Graduate programs at Ontario Tech:  
+→ [MSc in Biology](https://ontariotechu.ca/programs/graduate/science/masters-applied-bioscience/){target="_blank"}  
+→ [PhD in Biology](https://gradstudies.ontariotechu.ca/future_students/programs/doctoral_programs/applied-bioscience/index.php){target="_blank"}
 
 ---
 
 ## Postdoctoral Researchers
 
-Inquiries welcome — especially from candidates developing fellowship
-applications (NSERC, Banting, Liber Ero).
+I welcome inquiries from
+candidates interested in developing independent fellowship applications
+(e.g., NSERC, Banting, Liber Ero, MITACs). If your research interests align with the lab's work,
+please get in touch with a CV and a brief description of your interests.
 
 ---
 
 ## Undergraduate Students
 
-Volunteer, thesis, and NSERC USRA opportunities available.
+We welcome motivated undergraduates interested in gaining research experience in
+quantitative genetics and evolutionary biology. Opportunities include:
+
+- **Volunteer research positions** (academic year or summer)
+- **Independent study / thesis projects** (for credit)
+- **NSERC USRA** – we encourage strong students to apply each spring
 
 ---
+
+## Contact
 
 ::: {.join-callout}
 ### Get in touch
 
-Email [lab@ontariotechu.ca](mailto:lab@ontariotechu.ca) with subject line
-**"Prospective [PhD/MSc/PDF/Undergrad] — [Your Name]"**, a brief note on
-your interests, your CV, and contact info for 2–3 references.
+To inquire about opportunities, email us at
+[lab@ontariotechu.ca](mailto:lab@ontariotechu.ca) with the subject line
+**"Prospective [PhD/MSc/PDF/Undergrad] — [Your Name]"**.
 
-[Email the lab](mailto:lab@ontariotechu.ca){.btn-amber}
+We aim to respond to all serious enquiries within two weeks.
+
+[Email the lab](Drew.Sauve@ontariotechu.ca){.btn-amber}
 :::
 
 ---
 
-Ontario Tech University is in **Oshawa, Ontario**, in the Greater Toronto Area.
-We particularly encourage applications from members of groups underrepresented
-in STEM.
+Ontario Tech University is located in **Oshawa, Ontario**, within the Greater Toronto Area.
+The university is committed to equity, diversity, and inclusion in all its activities.
+We particularly encourage applications from members of groups underrepresented in STEM.
