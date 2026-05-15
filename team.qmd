@@ -96,14 +96,5 @@ Undergraduate Students
 
 ---
 
-::: {.section-label}
-Alumni
-:::
 
-| Name | Degree | Year | Current position |
-|------|--------|------|-----------------|
-| Former Student | MSc | 2023 | Position at Institution |
-| Former Student | BSc Honours | 2022 | Position at Institution |
-
----
 
