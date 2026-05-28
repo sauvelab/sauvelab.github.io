@@ -23,7 +23,7 @@ page-layout: full
 
 ### Welcome
 
-The Sauve Lab is based in the Faculty of Science (Forensic Science) at **Ontario Tech University**. Broadly, I use quantitative genetics and population genetics to better understand population responses to changing environments and to solve applied problems. I get excited about the use of pedigrees, studbooks, genomics, and genealogical records, and I am beginning to explore how these tools and frameworks can extend to forensics.
+The Sauve Lab is based in the Faculty of Science (Forensic Science) at **Ontario Tech University**. Broadly, we use quantitative genetics and population genetics to better understand population responses to changing environments and to solve applied problems. We get excited about the use of pedigrees, studbooks, genomics, and genealogical records, and we are beginning to explore how these tools and frameworks can extend to forensics.
 
 <hr class="section-rule">
 
