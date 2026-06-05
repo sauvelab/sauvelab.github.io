@@ -19,7 +19,7 @@ page-layout: full
 
 ---
 
-![](images/fitsurf.png){.centered-image}
+![](images/Sauve Lab.png){.centered-image}
 
 ### Welcome
 
