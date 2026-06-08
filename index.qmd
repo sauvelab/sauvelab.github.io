@@ -48,7 +48,7 @@ Research themes
 </svg>
 :::
 ### Ecology and Conservation
-I study zoological collections and wildlife populations to better understand contemporary responses to environmental change.
+We study zoological collections and wildlife populations to better understand contemporary responses to environmental change.
 :::
 
 ::: {.lab-card .inference}
@@ -72,7 +72,7 @@ I study zoological collections and wildlife populations to better understand con
 </svg>
 :::
 ### Genetics
-I use sequencing and relatedness to study evolutionary processes.
+We use sequencing and relatedness to understand the environmental and genetic contributions to phenotypic variation.
 :::
 
 ::: {.lab-card .forensics}
@@ -91,7 +91,7 @@ I use sequencing and relatedness to study evolutionary processes.
 </svg>
 :::
 ### Forensics
-I am interested in understanding how genetics and statistical tools from evolutionary ecology might be applied in forensic contexts.
+We are interested in understanding how genetics and statistical tools from evolutionary ecology might be applied in forensic contexts.
 :::
 
 :::
