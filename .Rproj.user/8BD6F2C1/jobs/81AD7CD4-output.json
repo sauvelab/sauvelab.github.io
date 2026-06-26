@@ -1,0 +1,7 @@
+[1,"==> quarto preview team.qmd --to html --no-watch-inputs --no-browse\n\n"]
+[1,"pandoc \n  to: html\n  output-file: team.html\n  standalone: true\n  title-prefix: Sauve Lab\n  section-divs: true\n  html-math-method: mathjax\n  wrap: none\n  default-image-extension: png\n  css:\n    - styles.css\n  toc: true\n  toc-depth: 2\n  variables: {}\n  \nmetadata\n  document-css: false\n  link-citations: true\n  date-format: long\n  lang: en\n  engines:\n    - path: C:\\PROGRA~1\\RStudio\\RESOUR~1\\app\\bin\\quarto\\share\\extension-subtrees\\julia-engine\\_extensions\\julia-engine\\julia-engine.js\n  theme: litera\n  smooth-scroll: true\n  title: Team\n  \n"]
+[1,"Output created: docs\\team.html\n\nPreparing to preview\n"]
+[1,"\nWatching files for changes\nBrowse at http://localhost:4281/team.html\nListening on http://127.0.0.1:4281/\n"]
+[1,"GET: /team.html\n"]
+[1,"GET: /join.html\n"]
+[1,"GET: /team.html\n"]
