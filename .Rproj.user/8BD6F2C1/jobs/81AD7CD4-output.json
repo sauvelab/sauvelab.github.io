@@ -11,3 +11,7 @@
 [1,"GET: /news.html\n"]
 [1,"GET: /blog.html\n"]
 [1,"GET: /join.html\n"]
+[1,"pandoc \n  to: html\n  output-file: team.html\n  standalone: true\n  title-prefix: Sauve Lab\n  section-divs: true\n  html-math-method: mathjax\n  wrap: none\n  default-image-extension: png\n  css:\n    - styles.css\n  toc: true\n  toc-depth: 2\n  variables: {}\n  \nmetadata\n  document-css: false\n  link-citations: true\n  date-format: long\n  lang: en\n  engines:\n    - path: C:\\PROGRA~1\\RStudio\\RESOUR~1\\app\\bin\\quarto\\share\\extension-subtrees\\julia-engine\\_extensions\\julia-engine\\julia-engine.js\n  theme: litera\n  smooth-scroll: true\n  title: Team\n  \n"]
+[1,"Output created: docs\\team.html\n\nWatching files for changes\n"]
+[1,"pandoc \n  to: html\n  output-file: team.html\n  standalone: true\n  title-prefix: Sauve Lab\n  section-divs: true\n  html-math-method: mathjax\n  wrap: none\n  default-image-extension: png\n  css:\n    - styles.css\n  toc: true\n  toc-depth: 2\n  variables: {}\n  \nmetadata\n  document-css: false\n  link-citations: true\n  date-format: long\n  lang: en\n  engines:\n    - path: C:\\PROGRA~1\\RStudio\\RESOUR~1\\app\\bin\\quarto\\share\\extension-subtrees\\julia-engine\\_extensions\\julia-engine\\julia-engine.js\n  theme: litera\n  smooth-scroll: true\n  title: Team\n  \n"]
+[1,"Output created: docs\\team.html\n\nWatching files for changes\n"]
