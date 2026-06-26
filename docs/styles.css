@@ -196,6 +196,17 @@ code, kbd {
   border: 2px solid var(--rule);
 }
 
+.bottom-logo {
+  display: block;
+  margin: 4rem auto 2rem auto; /* auto on left/right centers it horizontally */
+  
+  /* Your original aesthetics */
+  width: 275px;
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow-md);
+  border: 2px solid var(--rule);
+}
+
 /* ── Dividers & labels ─────────────────────────────────────── */
 .section-rule {
   border: none;
